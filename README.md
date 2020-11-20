@@ -1,1 +1,1 @@
-# protobuf-go
+# protocol buffers [golang, python]
